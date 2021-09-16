@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @raunylima
-- 👀 I’m interested in learn
-- 🌱 I’m currently taking some basic and free Webdesign courses and trying scholarships in Programming and Technology courses (HTML, CSS, Java, Python, Google Cloud, etc.) 
-- 💞️ I’m looking to collaborate in any project where my knowledge and willpower can help.
-- 📫 How to reach me right here, by e-mail > raunylima@pirambo.com or Linkedin > https://www.linkedin.com/in/raunylima/
+- 👋 Hi, I’m @raunylima 😘
+- 👀 I’m interested in 👨‍🎓
+- 🌱 I’m currently taking some basic and free Webdesign courses and trying scholarships in Programming and Technology courses (HTML, CSS, Java, Python, Google Cloud, etc.) 🤙
+- 💞️ I’m looking to collaborate in any project where my knowledge and willpower can help. 🤗
+- 📫 How to reach me right here, by e-mail > raunylima@pirambo.com or Linkedin > https://www.linkedin.com/in/raunylima/ 📲
