@@ -28,10 +28,11 @@
     <img alt="Rau-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="max-width: 100%;">
     <img alt="Rau-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="max-width: 100%;">
     <img alt="Rau-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="max-width: 100%;">
-    <img alt="Rau-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="max-width: 100%;">
-    <img alt="Rau-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="max-width: 100%;">
-    <img alt="Rau-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="max-width: 100%;">
-    <img alt="Rau-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="max-width: 100%;">
+    <img alt="Rau-AI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" style="max-width: 100%;">
+    <img alt="Rau-ID" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" style="max-width: 100%;">
+    <img alt="Rau-PS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="max-width: 100%;">
+    <img alt="Rau-PR" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" style="max-width: 100%;">
+    <img alt="Rau-XD" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" style="max-width: 100%;">
     <img alt="Rau-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;">
 </div>
 </a>
